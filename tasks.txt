@@ -6,3 +6,4 @@ All tasks:
 5	task5	do programming	30.07.2020 0:00:00
 6	task6	do english	30.03.2020 0:00:00
 7	task7	do course work	30.03.2020 0:00:00
+8	task8	do diploma	10.04.2020 0:00:00
