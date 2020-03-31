@@ -25,6 +25,7 @@ namespace TaskManager
             TaskReminder taskRem2 = new TaskReminder(5,"task5", "do programming", new DateTime(2020, 7, 30));
             TaskReminder taskRem3 = new TaskReminder(6, "task6", "do english", new DateTime(2020, 3, 30));
             TaskReminder taskRem4 = new TaskReminder(7, "task7", "do course work", new DateTime(2020, 3, 30));
+            TaskReminder taskRem5 = new TaskReminder(8, "task8", "do diploma", new DateTime(2020, 4, 10));
 
 
             tasks.Add(task1);
@@ -34,6 +35,7 @@ namespace TaskManager
             taskRem.Add(taskRem2);
             taskRem.Add(taskRem3);
             taskRem.Add(taskRem4);
+            taskRem.Add(taskRem5);
 
             // deleting tasks:
             //tasks.Remove(task1);
