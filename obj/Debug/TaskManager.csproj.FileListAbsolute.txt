@@ -1,0 +1,6 @@
+D:\4_COURSE\SET\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\4_COURSE\SET\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\4_COURSE\SET\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\4_COURSE\SET\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+D:\4_COURSE\SET\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\4_COURSE\SET\TaskManager\TaskManager\obj\Debug\TaskManager.pdb

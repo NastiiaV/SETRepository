@@ -1,0 +1,8 @@
+All tasks:
+1	new task1	new things to do
+2	task2	do washing
+3	task3	do coding
+4	new task4	do algebra	30.03.2020 0:00:00
+5	task5	do programming	30.07.2020 0:00:00
+6	task6	do english	30.03.2020 0:00:00
+7	task7	do course work	30.03.2020 0:00:00
