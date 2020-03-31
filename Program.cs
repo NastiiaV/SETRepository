@@ -41,7 +41,7 @@ namespace TaskManager
 
             //editing tasks:
             task1.Edit("new task1", "new things to do");
-            taskRem1.Edit("new task4", "do algebra",new DateTime(2020, 3, 30));
+            taskRem1.Edit("new task4", "do algebra",new DateTime(2020, 3, 31));
            
             // reminding tasks for today
             foreach (TaskReminder t in taskRem)
